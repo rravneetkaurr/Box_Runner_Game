@@ -1,0 +1,23 @@
+﻿  FileName.cpp
+C:\Users\hp\source\repos\BoxRunner\BoxRunner\FileName.cpp(290,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+FileName.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+FileName.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+FileName.obj : error LNK2019: unresolved external symbol glutGetWindow referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+FileName.obj : error LNK2019: unresolved external symbol glutKeyboardUpFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol glutGet referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+FileName.obj : error LNK2019: unresolved external symbol glutBitmapCharacter referenced in function "void __cdecl displayText(float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float,float,float)" (?displayText@@YAXMMAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMM@Z)
+FileName.obj : error LNK2019: unresolved external symbol glutSolidSphere referenced in function "void __cdecl drawSkybox(void)" (?drawSkybox@@YAXXZ)
+FileName.obj : error LNK2019: unresolved external symbol glutSolidCone referenced in function "void __cdecl drawArrow(float,float,float,int)" (?drawArrow@@YAXMMMH@Z)
+FileName.obj : error LNK2019: unresolved external symbol glutWireCube referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+FileName.obj : error LNK2019: unresolved external symbol glutSolidCube referenced in function "void __cdecl drawArrow(float,float,float,int)" (?drawArrow@@YAXMMMH@Z)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\hp\source\repos\BoxRunner\x64\Debug\BoxRunner.exe : fatal error LNK1120: 19 unresolved externals
