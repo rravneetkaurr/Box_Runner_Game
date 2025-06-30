@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\hp\source\repos\BoxRunner\BoxRunner\FileName.cpp(297,54): warning C4018: '<': signed/unsigned mismatch
+  BoxRunner.vcxproj -> C:\Users\hp\source\repos\BoxRunner\Debug\BoxRunner.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
