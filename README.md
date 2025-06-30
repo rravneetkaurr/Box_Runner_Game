@@ -3,9 +3,12 @@ This computer graphics project is a 3D endless runner game implemented using Ope
 
 Educational Value: 
 Demonstrates core OpenGL programming concepts: 3D rendering, transformations and lighting materials. Great for learning real-time rendering and animation logic.
+
 Gameplay Elements: 
 Simple yet engaging mechanics similar to "Temple Run" or "Subway Surfers". Allows testing of user inputs, rendering speed and basic physics (jumping, rotation).
+
 Graphics Features: 
 Can be extended with shaders, texture mapping or improved lighting models.
+
 Modularity: 
 Uses structured functions and a game class (game.updateGame, game.keyW, etc.), allowing further extension.
